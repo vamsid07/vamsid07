@@ -54,7 +54,7 @@ vamsidhar = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsid07&repo=excel-ai-engine&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 <a href="https://github.com/vamsid07/transformer-price-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsid07&repo=transformer-price-prediction&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsid07&repo=price-prediction&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 </a>
 
 <br>

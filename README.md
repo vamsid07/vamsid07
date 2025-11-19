@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vamsidhar%20Venkataraman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,24&height=180&section=header&text=Vamsidhar%20Venkataraman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Building+RAG+Systems+%26+LLM+Apps;Transformer+Architectures+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Engineer;Building+RAG+Systems+%26+LLM+Apps;Transformer+Architectures+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 ```python
 vamsidhar = {
-    "role": "LLM Engineer",
-    "currently": "Building RAG systems @ AstraZeneca",
+    "role": "Student",
+    "currently": "College of Engineering, Guindy",
     "passion": ["Deep Learning", "NLP", "Problem Solving"],
     "tech": ["PyTorch", "LangChain", "Kubernetes"],
     "fun_fact": "Ranked top 0.4% in Amazon ML Challenge"

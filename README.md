@@ -35,6 +35,7 @@ vamsidhar = {
 
 ---
 <div>
+    
 ### competitive programming
 
 [![CodeChef](https://img.shields.io/badge/CodeChef_2★-1488-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
@@ -43,13 +44,3 @@ vamsidhar = {
 
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsivenkat)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsidhar.venkataraman@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>

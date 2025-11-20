@@ -34,48 +34,7 @@ vamsidhar = {
 <br>
 
 ---
-
-<div align="center">
-
-### recent highlights
-
-**🏆 Amazon ML Challenge** — Top 88 / 20,000 teams  
-**⚡ Sub-2s Latency** — LLM microservices on NVIDIA DGX  
-**📈 0.56 → 0.87 F1** — RAG pipeline optimization  
-**🎯 89.3% Accuracy** — AI healthcare chatbot
-
-</div>
-
----
-
-### pinned projects
-
-<a href="https://github.com/vamsid07/excel-ai-engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsid07&repo=excel-ai-engine&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/vamsid07/transformer-price-prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsid07&repo=price-prediction&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
-</a>
-
-<br>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vamsid07&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=00000000&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsid07&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&langs_count=6" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsid07&bg_color=00000000&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-<img src="https://streak-stats.demolab.com?user=vamsid07&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=1f6feb&currStreakLabel=c9d1d9&sideNums=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-<div align="center">
-
+<div>
 ### competitive programming
 
 [![CodeChef](https://img.shields.io/badge/CodeChef_2★-1488-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
